@@ -2,6 +2,8 @@
 // A minimal console prototype of "AI Tycoon – The Business Brain"
 // C++17, no external deps. Compile: g++ -std=gnu++17 -O2 ai_tycoon.cpp -o ai_tycoon
 
+#include <iomanip>
+#include <random>
 #include <iostream>
 #include <vector>
 #include <algorithm>
